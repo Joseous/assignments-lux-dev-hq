@@ -152,6 +152,8 @@ Create a **single interactive Excel dashboard** with the following sections:
   - Rating category
   - Discount category
   - Price range
+ 
+
 
 ---
 
@@ -160,3 +162,7 @@ A fully functional **interactive Excel dashboard** that:
 - Is clean and well-organized
 - Provides actionable insights
 - Supports filtering and interaction using slicers
+
+  ### SOLUTIONS
+**Question 1** Discount Amount
+<img width="897" height="222" alt="image" src="https://github.com/user-attachments/assets/54fc8837-a062-43a3-b6ef-cb59fb14faad" />
