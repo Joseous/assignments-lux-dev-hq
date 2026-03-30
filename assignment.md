@@ -164,5 +164,24 @@ A fully functional **interactive Excel dashboard** that:
 - Supports filtering and interaction using slicers
 
   ### SOLUTIONS
+  **Data Cleaning**
+  *Check for and handle missing values, especially in the Reviews and Rating columns*
+  <img width="1712" height="499" alt="Screenshot 2026-03-30 210724" src="https://github.com/user-attachments/assets/e0ddee88-7f54-48f8-aa42-b8194b6825fe" />
+  *Identify and remove duplicate product entries*
+  <img width="707" height="307" alt="image" src="https://github.com/user-attachments/assets/0ef92ada-f652-4f44-8452-9786dfe3a2e2" />
+  *Convert price columns into numeric format by removing “KSh”*
+  <img width="858" height="264" alt="image" src="https://github.com/user-attachments/assets/76b0cdcd-fb95-40a4-9bc1-9067e3e92718" />
+  *Ensure the Discount column is numeric and properly formatted as a percentage*
+  <img width="454" height="320" alt="image" src="https://github.com/user-attachments/assets/39612fc7-5811-43ae-bee5-a049667e5af7" />
+  *Convert the Rating column from text format (e.g., “4.5 out of 5”) into numeric values*
+  <img width="643" height="251" alt="image" src="https://github.com/user-attachments/assets/21153d9b-ccf3-4f2c-a5f8-f7f917cf75ac" />
+  *Convert negative reviews to positive*
+  <img width="437" height="218" alt="image" src="https://github.com/user-attachments/assets/5800b858-dd68-4719-b442-124e92c2ccef" />
+
+
+
+
+
+
 **Question 1** Discount Amount
 <img width="897" height="222" alt="image" src="https://github.com/user-attachments/assets/54fc8837-a062-43a3-b6ef-cb59fb14faad" />
