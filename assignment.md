@@ -164,9 +164,10 @@ A fully functional **interactive Excel dashboard** that:
 - Supports filtering and interaction using slicers
 
   ### SOLUTIONS
-  **Data Cleaning**
+  **Data Cleaning And Preparation Solutions**
   
   *Check for and handle missing values, especially in the Reviews and Rating columns*
+  
   <img width="1712" height="499" alt="Screenshot 2026-03-30 210724" src="https://github.com/user-attachments/assets/e0ddee88-7f54-48f8-aa42-b8194b6825fe" />
   
   **Identify and remove duplicate product entries**
@@ -189,10 +190,31 @@ A fully functional **interactive Excel dashboard** that:
   
   <img width="437" height="218" alt="image" src="https://github.com/user-attachments/assets/5800b858-dd68-4719-b442-124e92c2ccef" />
 
+  **Data Enrichment**
+  
+  *Create the following additional columns:*
+  
+**Discount Amount (KSh): Old Price minus Current Price**
 
-
-
-
-
-**Question 1** Discount Amount
 <img width="897" height="222" alt="image" src="https://github.com/user-attachments/assets/54fc8837-a062-43a3-b6ef-cb59fb14faad" />
+
+**Rating Category: Poor for ratings below 3, Average for ratings between 3 and 4.4, Excellent for ratings of 4.5 and above**
+
+<img width="612" height="207" alt="image" src="https://github.com/user-attachments/assets/b7e46a78-9744-4fd5-80a4-1e53dc2ac33d" />
+
+**Discount Category: Low Discount for discounts below 20%, Medium Discount for discounts between 20% and 40%, High Discount for discounts above 40%**
+
+<img width="895" height="221" alt="image" src="https://github.com/user-attachments/assets/a1bd3726-b4c7-4776-8e34-8dc516a4e1ef" />
+
+**Data Analysis**
+
+**What is the average current price, old price, discount percentage, and rating?**
+
+<img width="464" height="190" alt="image" src="https://github.com/user-attachments/assets/96bf55e0-2d91-423c-9db5-bafffa5fdab7" />
+
+**Which product is the most expensive and which is the least expensive?**
+
+
+
+
+
