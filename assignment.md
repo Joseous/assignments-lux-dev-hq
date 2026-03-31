@@ -262,6 +262,21 @@ A fully functional **interactive Excel dashboard** that:
 
 <img width="373" height="224" alt="image" src="https://github.com/user-attachments/assets/b68c38cb-148c-4dac-a8cf-231bd420443e" />
 
+### Dashboard Design
+**Dashboard Requirements, Create a single interactive Excel dashboard containing the following sections:**
+*Overview*
+• Total number of products
+• Average rating
+• Average discount percentage
+• Total number of reviews
+• Top products by rating
+• Top products by number of reviews
+• Top products by discount percentage
+• Visualizations showing discount percentage versus reviews
+• Visualizations showing rating versus reviews
+• Breakdown of products by rating category
+• Breakdown of products by discount category
+
 
 
 
