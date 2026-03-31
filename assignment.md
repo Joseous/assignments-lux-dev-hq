@@ -264,7 +264,9 @@ A fully functional **interactive Excel dashboard** that:
 
 ### Dashboard Design
 **Dashboard Requirements, Create a single interactive Excel dashboard containing the following sections:**
+
 *Overview*
+
 • Total number of products
 • Average rating
 • Average discount percentage
