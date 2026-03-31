@@ -279,6 +279,8 @@ A fully functional **interactive Excel dashboard** that:
 * Breakdown of products by rating category
 * Breakdown of products by discount category
 
+  **Dashboard**
+
   <img width="581" height="424" alt="image" src="https://github.com/user-attachments/assets/e01df9d4-00ab-468a-b7d5-323df452ec56" />
 
 
