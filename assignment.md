@@ -267,17 +267,17 @@ A fully functional **interactive Excel dashboard** that:
 
 *Overview*
 
-• Total number of products
-• Average rating
-• Average discount percentage
-• Total number of reviews
-• Top products by rating
-• Top products by number of reviews
-• Top products by discount percentage
-• Visualizations showing discount percentage versus reviews
-• Visualizations showing rating versus reviews
-• Breakdown of products by rating category
-• Breakdown of products by discount category
+* Total number of products
+* Average rating
+* Average discount percentage
+* Total number of reviews
+* Top products by rating
+* Top products by number of reviews
+* Top products by discount percentage
+* Visualizations showing discount percentage versus reviews
+* Visualizations showing rating versus reviews
+* Breakdown of products by rating category
+* Breakdown of products by discount category
 
 
 
