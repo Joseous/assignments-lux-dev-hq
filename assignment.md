@@ -166,7 +166,7 @@ A fully functional **interactive Excel dashboard** that:
   ### SOLUTIONS
   **Data Cleaning And Preparation Solutions**
   
-  *Check for and handle missing values, especially in the Reviews and Rating columns*
+  **Check for and handle missing values, especially in the Reviews and Rating columns**
   
   <img width="1712" height="499" alt="Screenshot 2026-03-30 210724" src="https://github.com/user-attachments/assets/e0ddee88-7f54-48f8-aa42-b8194b6825fe" />
   
@@ -213,6 +213,66 @@ A fully functional **interactive Excel dashboard** that:
 <img width="464" height="190" alt="image" src="https://github.com/user-attachments/assets/96bf55e0-2d91-423c-9db5-bafffa5fdab7" />
 
 **Which product is the most expensive and which is the least expensive?**
+
+<img width="411" height="308" alt="image" src="https://github.com/user-attachments/assets/ca972b45-3886-4371-8cc8-6c05177f9313" />
+
+**What is the average rating and discount by discount category?**
+
+<img width="333" height="247" alt="image" src="https://github.com/user-attachments/assets/2e0921e3-1ad5-4c75-9915-3e1dd7ff8888" />
+
+**How are products distributed across rating categories?**
+
+<img width="414" height="232" alt="image" src="https://github.com/user-attachments/assets/c0f49725-59d3-4aa4-9a5b-d1381492483a" />
+
+**Trend and Relationship Analysis**
+
+**Analyze the relationship between discount percentage and number of reviews**
+
+<img width="368" height="223" alt="image" src="https://github.com/user-attachments/assets/7ca584bf-89ef-4f7c-b608-20e4f369687e" />
+
+**Analyze the relationship between rating and number of reviews**
+
+<img width="420" height="323" alt="image" src="https://github.com/user-attachments/assets/48fd4971-aced-434a-997c-6933aff02086" />
+
+**Determine whether higher discounts lead to increased customer engagement**
+
+<img width="952" height="241" alt="image" src="https://github.com/user-attachments/assets/6ffac889-d0d2-4538-a2f6-8e230f7104a6" />
+
+**Determine whether higher-rated products tend to have more reviews**
+
+<img width="370" height="356" alt="image" src="https://github.com/user-attachments/assets/3e1503a4-f0fc-4215-b0c5-6fcfe59f1991" />
+
+**Product Performance Analysis**
+
+**Identify the top 10 products with the highest discounts**
+
+<img width="632" height="308" alt="image" src="https://github.com/user-attachments/assets/7e8f1e67-39c9-4db1-9379-268dcb8133e3" />
+
+**Identify the top 10 products with the most reviews**
+
+<img width="595" height="309" alt="image" src="https://github.com/user-attachments/assets/3d072ff7-87e2-499f-a68c-c7f4a9150015" />
+
+**Identify the top 5 highest-rated and bottom 5 lowest-rated products**
+
+<img width="635" height="269" alt="image" src="https://github.com/user-attachments/assets/fff73a41-f102-46a5-801c-65a81a03ab02" />
+
+<img width="598" height="221" alt="image" src="https://github.com/user-attachments/assets/19ec9adf-682e-4cff-8f89-0c3c9488f63b" />
+
+**Compare high-discount and low-discount products based on average rating and number of reviews**
+
+<img width="373" height="224" alt="image" src="https://github.com/user-attachments/assets/b68c38cb-148c-4dac-a8cf-231bd420443e" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
